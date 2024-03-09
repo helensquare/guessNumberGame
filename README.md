@@ -9,3 +9,6 @@ After you have selected the level, you start guessing the numbers. The computer 
 
 # Where can I play this game?
 This game does not have a frontend, so it needs to be played in the terminal :D 
+
+# Note
+As a Python beginner, I find it beneficial to add comments throughout my code. These comments serve as helpful reminders of the steps I've taken and aid in understanding the logic behind my projects. These comments provide invaluable guidance and clarity and I decided to leave them in this project in case I need to come back to it in the future.
